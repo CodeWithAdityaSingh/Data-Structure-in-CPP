@@ -161,16 +161,38 @@ int main(){
 // cout << (isPrime ?  "Prime Number" :  "Non Prime");
 
 
-for(int i=0 ; i <=5; i++){
+// for(int i=0 ; i <=5; i++){
 
-    for(int j=1; j<=5;j++){
+//     for(int j=1; j<=5;j++){
     
-      cout << "*";
+//       cout << "*";
 
-    }
+//     }
 
-    cout << endl;
+//     cout << endl;
+// }
+
+// int sum =0;
+
+// for(int i=1 ; i <=10; i++){
+
+//   if(i%3==0){
+//    sum+=i;
+//   }
+
+// }
+//   cout<<sum<<endl;
+
+
+int factorial = 1;
+
+for(int i=1; i<=7;i++){
+  
+  factorial*=i;
+
 }
+
+cout << factorial<<endl;
 
 
   
