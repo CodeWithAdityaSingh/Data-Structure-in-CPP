@@ -57,7 +57,6 @@ using namespace std;
 int main(){
 
 
-   cout 
 
 
    // cout << binaryToDecimal(101010) << endl;
