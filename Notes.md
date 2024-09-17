@@ -16,3 +16,11 @@ reversing the number;
 
 step: Twos complement--
 adding 1 in the Binary mumber;
+```
+
+
+```
+--Pass by value :  int primitive data dype(int,char,float,boolean,Double) -- its only create the copy of that variable when we pass it in another variable or functions NOTE :- Do not change in original  copy of variable;
+
+--Pass by Refrence : Array,Object : its change the original  data Type when we modifie it:
+```
